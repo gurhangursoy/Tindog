@@ -12,6 +12,10 @@
 ## General info
 If you think your dog is unhappy, you can find suitable friends for him/her without wasting time :)
 
+## Link
+You can access the website from the link below;
+https://tindoogg.netlify.app/
+
 ## Screenshots
 ![SS-1](https://user-images.githubusercontent.com/73755991/100870325-7e6e2180-34af-11eb-936e-3d2e24bd879c.JPG)
 ![SS-2](https://user-images.githubusercontent.com/73755991/100870338-862dc600-34af-11eb-99e7-f65c652e1110.JPG)
