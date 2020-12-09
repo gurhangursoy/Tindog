@@ -17,8 +17,7 @@ You can access the website from this link;
 https://tindoogg.netlify.app/
 
 ## Screenshots
-![SS-1](https://user-images.githubusercontent.com/73755991/100870325-7e6e2180-34af-11eb-936e-3d2e24bd879c.JPG)
-![SS-2](https://user-images.githubusercontent.com/73755991/100870338-862dc600-34af-11eb-99e7-f65c652e1110.JPG)
+![Tindog](https://user-images.githubusercontent.com/73755991/101675510-f23d9a80-3a6a-11eb-84c2-eaad8fc22fbf.gif)
 
 ## Technologies
 * BOOTSTRAP
